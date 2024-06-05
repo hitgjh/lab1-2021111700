@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file2 on B1
+=======
+file2 on C4
+>>>>>>> C4
