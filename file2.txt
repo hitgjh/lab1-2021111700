@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Another file2 on B2
 Another file2 on B2
+=======
+<<<<<<< HEAD
+file2 on B1
+=======
+file2 on C4
+>>>>>>> C4
+>>>>>>> B1
